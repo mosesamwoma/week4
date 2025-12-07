@@ -1,15 +1,17 @@
-# Week 4
+# Week 4 Practical Assignments
 
-```bash
-MOSES AMWOMA TUMBO
+**Student:** MOSES AMWOMA TUMBO  
+**Registration Number:** CT204/119586/24  
 
-CT204/119586/24
+---
 
-Week 4 Practical Assignment
+## Assignments
 
-1.1381. Design a Stack With Increment Operation
+1. **Design a Stack With Increment Operation**  
+   - Implement a stack data structure with a custom increment operation.
 
-2.622. Design Circular Queue
+2. **Design Circular Queue**  
+   - Implement a circular queue with enqueue and dequeue operations.
 
-3.101. Symmetric Tree
-```
+3. **Symmetric Tree**  
+   - Determine if a binary tree is symmetric around its center.
